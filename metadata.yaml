@@ -1,0 +1,36 @@
+_repo: Taken-by-the-Enemy_18579
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18579-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_bookshelf:
+- US Civil War
+- Children's Fiction
+gutenberg_issued: '2006-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Blue and the Gray--Afloat, book 1
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Steamboats -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+title: Taken by the Enemy
+url: http://www.gutenberg.org/ebooks/18579
